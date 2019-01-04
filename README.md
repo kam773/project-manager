@@ -2,10 +2,8 @@
 
 Application built with React + Redux
 
-[Demo](https://project-manager-3901e.firebaseapp.com/signin)
-
-Login: email@example.com
-
+[Demo](https://project-manager-3901e.firebaseapp.com/signin) <br/>
+Login: email@example.com <br/>
 password: qwerty123
 
 # What is inside?
@@ -17,6 +15,7 @@ password: qwerty123
 * routing
 * notifications
 
+![project-manager screenshot](screenshot.png?raw=true)
 
 ## Technologies
 
