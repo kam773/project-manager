@@ -3,8 +3,10 @@
 Application built with React + Redux
 
 [Demo](https://project-manager-3901e.firebaseapp.com/signin)
+
 Login: email@example.com
-password: qwerty
+
+password: qwerty123
 
 # What is inside?
 
